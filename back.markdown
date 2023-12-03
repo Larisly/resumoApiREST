@@ -8,3 +8,4 @@
 
 ### HTTP Status Code
 ~~~São códigos de status essenciais para a comunicação cliente-servidor na web.  Eles ajudam a diagnosticar problemas, orientar o fluxo de controle e melhorar a experiência do usuário. São agrupados em cinco classes. 1xx para informativos, 2xx para sucessos, 3xx para redirecionamento, 4xx para erro do cliente(bastante visto no exemplo ERROR 404 Not Found),5xx para erro do servidor.
+Larissa Vitória Andrade de Araújo - 01564988 
